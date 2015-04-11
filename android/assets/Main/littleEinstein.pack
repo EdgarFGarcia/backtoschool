@@ -1,0 +1,1021 @@
+
+littleEinstein.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+animals/owl
+  rotate: false
+  xy: 1, 425
+  size: 648, 597
+  orig: 648, 597
+  offset: 0, 0
+  index: -1
+animals/cat
+  rotate: false
+  xy: 651, 522
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+animals/Eagle
+  rotate: false
+  xy: 1, 27
+  size: 490, 396
+  orig: 490, 396
+  offset: 0, 0
+  index: -1
+animals/donkey
+  rotate: false
+  xy: 1153, 749
+  size: 400, 273
+  orig: 400, 273
+  offset: 0, 0
+  index: -1
+animals/tiger
+  rotate: false
+  xy: 1555, 800
+  size: 410, 222
+  orig: 410, 222
+  offset: 0, 0
+  index: -1
+animals/penguin
+  rotate: false
+  xy: 1153, 447
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+animals/chicken
+  rotate: false
+  xy: 493, 156
+  size: 189, 267
+  orig: 189, 267
+  offset: 0, 0
+  index: -1
+animals/bird
+  rotate: false
+  xy: 684, 270
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+animals/frog
+  rotate: false
+  xy: 936, 276
+  size: 207, 244
+  orig: 207, 244
+  offset: 0, 0
+  index: -1
+animals/pig
+  rotate: false
+  xy: 1145, 252
+  size: 261, 193
+  orig: 261, 193
+  offset: 0, 0
+  index: -1
+animals/dog
+  rotate: false
+  xy: 684, 51
+  size: 232, 217
+  orig: 232, 217
+  offset: 0, 0
+  index: -1
+animals/elephant
+  rotate: false
+  xy: 1455, 520
+  size: 222, 227
+  orig: 222, 227
+  offset: 0, 0
+  index: -1
+animals/horse
+  rotate: false
+  xy: 1679, 573
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+animals/lion
+  rotate: false
+  xy: 1455, 293
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+animals/monkey
+  rotate: false
+  xy: 493, 1
+  size: 158, 153
+  orig: 158, 153
+  offset: 0, 0
+  index: -1
+
+littleEinstein2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg/category
+  rotate: false
+  xy: 1, 971
+  size: 1698, 1000
+  orig: 1698, 1000
+  offset: 0, 0
+  index: -1
+bg/IntroBackground
+  rotate: false
+  xy: 1, 1
+  size: 1409, 968
+  orig: 1409, 968
+  offset: 0, 0
+  index: -1
+bg/fruits
+  rotate: false
+  xy: 1701, 1300
+  size: 1053, 671
+  orig: 1053, 671
+  offset: 0, 0
+  index: -1
+bg/colorbg
+  rotate: false
+  xy: 2756, 1360
+  size: 910, 611
+  orig: 910, 611
+  offset: 0, 0
+  index: -1
+bg/animalbg
+  rotate: false
+  xy: 1701, 787
+  size: 910, 511
+  orig: 910, 511
+  offset: 0, 0
+  index: -1
+bg/numbers
+  rotate: false
+  xy: 1412, 266
+  size: 800, 519
+  orig: 800, 519
+  offset: 0, 0
+  index: -1
+bg/letter
+  rotate: false
+  xy: 2214, 285
+  size: 800, 500
+  orig: 800, 500
+  offset: 0, 0
+  index: -1
+bg/rectanglebar
+  rotate: false
+  xy: 1412, 174
+  size: 800, 90
+  orig: 800, 90
+  offset: 0, 0
+  index: -1
+bg/shapes
+  rotate: false
+  xy: 3668, 1722
+  size: 366, 249
+  orig: 366, 249
+  offset: 0, 0
+  index: -1
+
+littleEinstein3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttons/greatjob
+  rotate: false
+  xy: 1, 215
+  size: 280, 272
+  orig: 280, 272
+  offset: 0, 0
+  index: -1
+buttons/back
+  rotate: false
+  xy: 1, 133
+  size: 250, 80
+  orig: 250, 80
+  offset: 0, 0
+  index: -1
+buttons/next
+  rotate: false
+  xy: 1, 51
+  size: 250, 80
+  orig: 250, 80
+  offset: 0, 0
+  index: -1
+buttons/home
+  rotate: false
+  xy: 283, 400
+  size: 222, 87
+  orig: 222, 87
+  offset: 0, 0
+  index: -1
+buttons/settingsBtn
+  rotate: false
+  xy: 283, 322
+  size: 169, 76
+  orig: 169, 76
+  offset: 0, 0
+  index: -1
+buttons/about
+  rotate: false
+  xy: 283, 243
+  size: 160, 77
+  orig: 160, 77
+  offset: 0, 0
+  index: -1
+buttons/playBtn
+  rotate: false
+  xy: 283, 166
+  size: 154, 75
+  orig: 154, 75
+  offset: 0, 0
+  index: -1
+buttons/closeBtn
+  rotate: false
+  xy: 1, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+buttons/musicOff
+  rotate: false
+  xy: 454, 350
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+buttons/musicOn
+  rotate: false
+  xy: 51, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+buttons/soundsOff
+  rotate: false
+  xy: 101, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+buttons/soundsOn
+  rotate: false
+  xy: 151, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+
+littleEinstein4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cbtn/colors
+  rotate: false
+  xy: 1, 1
+  size: 197, 214
+  orig: 197, 214
+  offset: 0, 0
+  index: -1
+cbtn/numbercategory
+  rotate: false
+  xy: 200, 56
+  size: 153, 159
+  orig: 153, 159
+  offset: 0, 0
+  index: -1
+cbtn/animalcategory
+  rotate: false
+  xy: 355, 65
+  size: 145, 150
+  orig: 145, 150
+  offset: 0, 0
+  index: -1
+cbtn/shapes
+  rotate: false
+  xy: 502, 69
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+cbtn/fruitscategory
+  rotate: false
+  xy: 650, 69
+  size: 144, 146
+  orig: 144, 146
+  offset: 0, 0
+  index: -1
+cbtn/letterscategory
+  rotate: false
+  xy: 796, 84
+  size: 136, 131
+  orig: 136, 131
+  offset: 0, 0
+  index: -1
+
+littleEinstein5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+colors/purple1
+  rotate: false
+  xy: 1, 662
+  size: 310, 331
+  orig: 310, 331
+  offset: 0, 0
+  index: -1
+colors/purple2
+  rotate: false
+  xy: 1, 329
+  size: 310, 331
+  orig: 310, 331
+  offset: 0, 0
+  index: -1
+colors/blue1
+  rotate: false
+  xy: 313, 667
+  size: 289, 326
+  orig: 289, 326
+  offset: 0, 0
+  index: -1
+colors/blue2
+  rotate: false
+  xy: 1, 1
+  size: 289, 326
+  orig: 289, 326
+  offset: 0, 0
+  index: -1
+colors/purple
+  rotate: false
+  xy: 313, 369
+  size: 271, 296
+  orig: 271, 296
+  offset: 0, 0
+  index: -1
+colors/green1
+  rotate: false
+  xy: 604, 706
+  size: 263, 287
+  orig: 263, 287
+  offset: 0, 0
+  index: -1
+colors/green2
+  rotate: false
+  xy: 869, 706
+  size: 263, 287
+  orig: 263, 287
+  offset: 0, 0
+  index: -1
+colors/grey1
+  rotate: false
+  xy: 1134, 706
+  size: 263, 287
+  orig: 263, 287
+  offset: 0, 0
+  index: -1
+colors/grey2
+  rotate: false
+  xy: 1399, 706
+  size: 263, 287
+  orig: 263, 287
+  offset: 0, 0
+  index: -1
+colors/orange1
+  rotate: false
+  xy: 1664, 706
+  size: 263, 287
+  orig: 263, 287
+  offset: 0, 0
+  index: -1
+colors/orange2
+  rotate: false
+  xy: 1929, 706
+  size: 263, 287
+  orig: 263, 287
+  offset: 0, 0
+  index: -1
+colors/pink1
+  rotate: false
+  xy: 2194, 706
+  size: 263, 287
+  orig: 263, 287
+  offset: 0, 0
+  index: -1
+colors/pink2
+  rotate: false
+  xy: 2459, 706
+  size: 263, 287
+  orig: 263, 287
+  offset: 0, 0
+  index: -1
+colors/red1
+  rotate: false
+  xy: 2724, 706
+  size: 263, 287
+  orig: 263, 287
+  offset: 0, 0
+  index: -1
+colors/red2
+  rotate: false
+  xy: 2989, 706
+  size: 263, 287
+  orig: 263, 287
+  offset: 0, 0
+  index: -1
+colors/white1
+  rotate: false
+  xy: 3254, 706
+  size: 263, 287
+  orig: 263, 287
+  offset: 0, 0
+  index: -1
+colors/white2
+  rotate: false
+  xy: 3519, 706
+  size: 263, 287
+  orig: 263, 287
+  offset: 0, 0
+  index: -1
+colors/yellow1
+  rotate: false
+  xy: 3784, 706
+  size: 263, 287
+  orig: 263, 287
+  offset: 0, 0
+  index: -1
+colors/blue
+  rotate: false
+  xy: 292, 33
+  size: 250, 294
+  orig: 250, 294
+  offset: 0, 0
+  index: -1
+colors/yellow2
+  rotate: false
+  xy: 586, 378
+  size: 263, 287
+  orig: 263, 287
+  offset: 0, 0
+  index: -1
+colors/brown2
+  rotate: false
+  xy: 851, 426
+  size: 252, 278
+  orig: 252, 278
+  offset: 0, 0
+  index: -1
+colors/brown1
+  rotate: false
+  xy: 1105, 439
+  size: 238, 265
+  orig: 238, 265
+  offset: 0, 0
+  index: -1
+colors/brown
+  rotate: false
+  xy: 1345, 447
+  size: 229, 257
+  orig: 229, 257
+  offset: 0, 0
+  index: -1
+colors/green
+  rotate: false
+  xy: 1576, 447
+  size: 229, 257
+  orig: 229, 257
+  offset: 0, 0
+  index: -1
+colors/grey
+  rotate: false
+  xy: 1807, 447
+  size: 229, 257
+  orig: 229, 257
+  offset: 0, 0
+  index: -1
+colors/orange
+  rotate: false
+  xy: 2038, 447
+  size: 229, 257
+  orig: 229, 257
+  offset: 0, 0
+  index: -1
+colors/pink
+  rotate: false
+  xy: 2269, 447
+  size: 229, 257
+  orig: 229, 257
+  offset: 0, 0
+  index: -1
+colors/red
+  rotate: false
+  xy: 2500, 447
+  size: 229, 257
+  orig: 229, 257
+  offset: 0, 0
+  index: -1
+colors/white
+  rotate: false
+  xy: 2731, 447
+  size: 229, 257
+  orig: 229, 257
+  offset: 0, 0
+  index: -1
+colors/yellow
+  rotate: false
+  xy: 2962, 447
+  size: 229, 257
+  orig: 229, 257
+  offset: 0, 0
+  index: -1
+
+littleEinstein6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fruits/strawberry
+  rotate: false
+  xy: 1, 346
+  size: 348, 550
+  orig: 348, 550
+  offset: 0, 0
+  index: -1
+fruits/grapes
+  rotate: false
+  xy: 1, 1
+  size: 235, 343
+  orig: 235, 343
+  offset: 0, 0
+  index: -1
+fruits/pineapple
+  rotate: false
+  xy: 351, 597
+  size: 252, 299
+  orig: 252, 299
+  offset: 0, 0
+  index: -1
+fruits/apple
+  rotate: false
+  xy: 605, 621
+  size: 242, 275
+  orig: 242, 275
+  offset: 0, 0
+  index: -1
+fruits/orange
+  rotate: false
+  xy: 351, 341
+  size: 263, 254
+  orig: 263, 254
+  offset: 0, 0
+  index: -1
+fruits/mango
+  rotate: false
+  xy: 616, 313
+  size: 186, 306
+  orig: 186, 306
+  offset: 0, 0
+  index: -1
+fruits/banana
+  rotate: false
+  xy: 238, 123
+  size: 298, 216
+  orig: 298, 216
+  offset: 0, 0
+  index: -1
+
+littleEinstein7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fruitsColored/strawberry
+  rotate: false
+  xy: 1, 180
+  size: 225, 300
+  orig: 225, 300
+  offset: 0, 0
+  index: -1
+fruitsColored/orange
+  rotate: false
+  xy: 228, 201
+  size: 221, 279
+  orig: 221, 279
+  offset: 0, 0
+  index: -1
+fruitsColored/apple
+  rotate: false
+  xy: 451, 241
+  size: 211, 239
+  orig: 211, 239
+  offset: 0, 0
+  index: -1
+fruitsColored/grapes
+  rotate: false
+  xy: 664, 256
+  size: 225, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+fruitsColored/mango
+  rotate: false
+  xy: 1, 5
+  size: 234, 173
+  orig: 234, 173
+  offset: 0, 0
+  index: -1
+fruitsColored/pineapple
+  rotate: false
+  xy: 237, 1
+  size: 167, 198
+  orig: 167, 198
+  offset: 0, 0
+  index: -1
+fruitsColored/banana
+  rotate: false
+  xy: 451, 102
+  size: 184, 137
+  orig: 184, 137
+  offset: 0, 0
+  index: -1
+
+littleEinstein8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+letters/V
+  rotate: false
+  xy: 1, 1
+  size: 82, 91
+  orig: 82, 91
+  offset: 0, 0
+  index: -1
+letters/W
+  rotate: false
+  xy: 85, 9
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+letters/Y
+  rotate: false
+  xy: 175, 8
+  size: 72, 84
+  orig: 72, 84
+  offset: 0, 0
+  index: -1
+letters/E
+  rotate: false
+  xy: 249, 3
+  size: 69, 89
+  orig: 69, 89
+  offset: 0, 0
+  index: -1
+letters/T
+  rotate: false
+  xy: 320, 8
+  size: 67, 84
+  orig: 67, 84
+  offset: 0, 0
+  index: -1
+letters/K
+  rotate: false
+  xy: 389, 8
+  size: 66, 84
+  orig: 66, 84
+  offset: 0, 0
+  index: -1
+letters/F
+  rotate: false
+  xy: 457, 6
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+letters/L
+  rotate: false
+  xy: 523, 5
+  size: 63, 87
+  orig: 63, 87
+  offset: 0, 0
+  index: -1
+letters/N
+  rotate: false
+  xy: 588, 9
+  size: 65, 83
+  orig: 65, 83
+  offset: 0, 0
+  index: -1
+letters/Z
+  rotate: false
+  xy: 655, 9
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+letters/H
+  rotate: false
+  xy: 721, 8
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+letters/M
+  rotate: false
+  xy: 786, 15
+  size: 69, 77
+  orig: 69, 77
+  offset: 0, 0
+  index: -1
+letters/X
+  rotate: false
+  xy: 857, 16
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+letters/A
+  rotate: false
+  xy: 925, 10
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+letters/B
+  rotate: false
+  xy: 989, 10
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+letters/G
+  rotate: false
+  xy: 1053, 12
+  size: 62, 80
+  orig: 62, 80
+  offset: 0, 0
+  index: -1
+letters/D
+  rotate: false
+  xy: 1117, 12
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+letters/P
+  rotate: false
+  xy: 1180, 10
+  size: 60, 82
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+letters/Q
+  rotate: false
+  xy: 1242, 5
+  size: 60, 87
+  orig: 60, 87
+  offset: 0, 0
+  index: -1
+letters/U
+  rotate: false
+  xy: 1304, 10
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+letters/S
+  rotate: false
+  xy: 1365, 13
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+letters/O
+  rotate: false
+  xy: 1426, 13
+  size: 57, 79
+  orig: 57, 79
+  offset: 0, 0
+  index: -1
+letters/R
+  rotate: false
+  xy: 1485, 16
+  size: 59, 76
+  orig: 59, 76
+  offset: 0, 0
+  index: -1
+letters/C
+  rotate: false
+  xy: 1546, 14
+  size: 56, 78
+  orig: 56, 78
+  offset: 0, 0
+  index: -1
+letters/J
+  rotate: false
+  xy: 1604, 10
+  size: 53, 82
+  orig: 53, 82
+  offset: 0, 0
+  index: -1
+letters/I
+  rotate: false
+  xy: 1659, 9
+  size: 40, 83
+  orig: 40, 83
+  offset: 0, 0
+  index: -1
+
+littleEinstein9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+numbers/4
+  rotate: false
+  xy: 1, 229
+  size: 225, 259
+  orig: 225, 259
+  offset: 0, 0
+  index: -1
+numbers/10
+  rotate: false
+  xy: 1, 1
+  size: 180, 226
+  orig: 180, 226
+  offset: 0, 0
+  index: -1
+numbers/6
+  rotate: false
+  xy: 228, 257
+  size: 167, 231
+  orig: 167, 231
+  offset: 0, 0
+  index: -1
+numbers/9
+  rotate: false
+  xy: 397, 262
+  size: 170, 226
+  orig: 170, 226
+  offset: 0, 0
+  index: -1
+numbers/3
+  rotate: false
+  xy: 569, 262
+  size: 151, 226
+  orig: 151, 226
+  offset: 0, 0
+  index: -1
+numbers/2
+  rotate: false
+  xy: 722, 265
+  size: 153, 223
+  orig: 153, 223
+  offset: 0, 0
+  index: -1
+numbers/1
+  rotate: false
+  xy: 877, 265
+  size: 112, 223
+  orig: 112, 223
+  offset: 0, 0
+  index: -1
+numbers/8
+  rotate: false
+  xy: 183, 1
+  size: 149, 226
+  orig: 149, 226
+  offset: 0, 0
+  index: -1
+numbers/5
+  rotate: false
+  xy: 334, 32
+  size: 153, 223
+  orig: 153, 223
+  offset: 0, 0
+  index: -1
+numbers/7
+  rotate: false
+  xy: 489, 41
+  size: 148, 219
+  orig: 148, 219
+  offset: 0, 0
+  index: -1
+
+littleEinstein10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shapes/square
+  rotate: false
+  xy: 1, 30
+  size: 388, 388
+  orig: 388, 388
+  offset: 0, 0
+  index: -1
+shapes/octagon
+  rotate: false
+  xy: 391, 70
+  size: 344, 348
+  orig: 344, 348
+  offset: 0, 0
+  index: -1
+shapes/circle
+  rotate: false
+  xy: 737, 118
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+shapes/diamond
+  rotate: false
+  xy: 1039, 118
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+shapes/triangle
+  rotate: false
+  xy: 1341, 120
+  size: 300, 298
+  orig: 300, 298
+  offset: 0, 0
+  index: -1
+shapes/heart
+  rotate: false
+  xy: 1643, 203
+  size: 234, 215
+  orig: 234, 215
+  offset: 0, 0
+  index: -1
+shapes/oval
+  rotate: false
+  xy: 1879, 180
+  size: 164, 238
+  orig: 164, 238
+  offset: 0, 0
+  index: -1
+shapes/star
+  rotate: false
+  xy: 1643, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+littleEinstein11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shapesEmpty/star
+  rotate: false
+  xy: 1, 162
+  size: 315, 306
+  orig: 315, 306
+  offset: 0, 0
+  index: -1
+shapesEmpty/diamond
+  rotate: false
+  xy: 318, 191
+  size: 277, 277
+  orig: 277, 277
+  offset: 0, 0
+  index: -1
+shapesEmpty/triangle
+  rotate: false
+  xy: 597, 225
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+shapesEmpty/heart
+  rotate: false
+  xy: 899, 222
+  size: 286, 246
+  orig: 286, 246
+  offset: 0, 0
+  index: -1
+shapesEmpty/octagon
+  rotate: false
+  xy: 1187, 198
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+shapesEmpty/circle
+  rotate: false
+  xy: 1459, 224
+  size: 242, 244
+  orig: 242, 244
+  offset: 0, 0
+  index: -1
+shapesEmpty/oval
+  rotate: false
+  xy: 1, 1
+  size: 292, 159
+  orig: 292, 159
+  offset: 0, 0
+  index: -1
+shapesEmpty/square
+  rotate: false
+  xy: 1703, 256
+  size: 219, 212
+  orig: 219, 212
+  offset: 0, 0
+  index: -1
